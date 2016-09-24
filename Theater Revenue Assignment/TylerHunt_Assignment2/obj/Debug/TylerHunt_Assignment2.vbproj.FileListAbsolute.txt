@@ -1,0 +1,15 @@
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\bin\Debug\TylerHunt_Assignment2.exe.config
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.vbprojResolveAssemblyReference.cache
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.frm_TheaterRevenue.resources
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.Resources.resources
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.vbproj.GenerateResource.Cache
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.xml
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\bin\Debug\TylerHunt_Assignment2.exe
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\bin\Debug\TylerHunt_Assignment2.pdb
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\bin\Debug\TylerHunt_Assignment2.xml
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.exe
+c:\users\ty_hunt\documents\visual studio 2015\Projects\TylerHunt_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.pdb
+C:\Users\Ty_Hunt\Documents\Visual Studio 2015\Projects\TylerHunt_CS2453_Assignment2\TylerHunt_Assignment2\bin\Debug\TylerHunt_Assignment2.exe.config
+C:\Users\Ty_Hunt\Documents\Visual Studio 2015\Projects\TylerHunt_CS2453_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.exe
+C:\Users\Ty_Hunt\Documents\Visual Studio 2015\Projects\TylerHunt_CS2453_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.xml
+C:\Users\Ty_Hunt\Documents\Visual Studio 2015\Projects\TylerHunt_CS2453_Assignment2\TylerHunt_Assignment2\obj\Debug\TylerHunt_Assignment2.pdb
