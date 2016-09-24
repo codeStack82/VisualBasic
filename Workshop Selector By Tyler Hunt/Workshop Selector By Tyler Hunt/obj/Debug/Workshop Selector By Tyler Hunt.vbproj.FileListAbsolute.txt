@@ -1,0 +1,11 @@
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\bin\Debug\Workshop Selector By Tyler Hunt.exe.config
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\bin\Debug\Workshop Selector By Tyler Hunt.exe
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\bin\Debug\Workshop Selector By Tyler Hunt.pdb
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\bin\Debug\Workshop Selector By Tyler Hunt.xml
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\obj\Debug\Workshop Selector By Tyler Hunt.vbprojResolveAssemblyReference.cache
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\obj\Debug\Workshop_Selector_By_Tyler_Hunt.TylerHunt_WorkshopSelector.resources
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\obj\Debug\Workshop_Selector_By_Tyler_Hunt.Resources.resources
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\obj\Debug\Workshop Selector By Tyler Hunt.vbproj.GenerateResource.Cache
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\obj\Debug\Workshop Selector By Tyler Hunt.exe
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\obj\Debug\Workshop Selector By Tyler Hunt.xml
+c:\users\ty_hunt\documents\visual studio 2015\Projects\Workshop Selector By Tyler Hunt\Workshop Selector By Tyler Hunt\obj\Debug\Workshop Selector By Tyler Hunt.pdb
