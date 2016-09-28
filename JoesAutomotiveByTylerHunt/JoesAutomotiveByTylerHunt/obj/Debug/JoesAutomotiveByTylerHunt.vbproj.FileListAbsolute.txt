@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\bin\Debug\JoesAutomotiveByTylerHunt.exe.config
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\bin\Debug\JoesAutomotiveByTylerHunt.exe
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\bin\Debug\JoesAutomotiveByTylerHunt.pdb
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\bin\Debug\JoesAutomotiveByTylerHunt.xml
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\obj\Debug\JoesAutomotiveByTylerHunt.vbprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\obj\Debug\JoesAutomotiveByTylerHunt.frm_JoesAuto.resources
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\obj\Debug\JoesAutomotiveByTylerHunt.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\obj\Debug\JoesAutomotiveByTylerHunt.vbproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\obj\Debug\JoesAutomotiveByTylerHunt.exe
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\obj\Debug\JoesAutomotiveByTylerHunt.xml
+\\mac\home\documents\visual studio 2015\Projects\JoesAutomotiveByTylerHunt\JoesAutomotiveByTylerHunt\obj\Debug\JoesAutomotiveByTylerHunt.pdb
